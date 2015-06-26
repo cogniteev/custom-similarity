@@ -45,7 +45,7 @@ Configuration to reactivate compressed norms and discard overlaps:
   "settings": {
     "similarity": {
       "pimped_custom" : {
-        "type": "custom,
+        "type": "custom",
         "compress_norms": false,
         "discard_overlaps": false
       }
