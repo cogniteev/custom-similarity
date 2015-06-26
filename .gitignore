@@ -7,10 +7,10 @@
 *.o
 *.so
 target/
-target/
 .classpath
 .project
 .settings
+dev-tools/
 
 
 # Packages #
