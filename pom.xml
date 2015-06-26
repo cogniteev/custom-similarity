@@ -5,7 +5,7 @@
 	<groupId>com.cogniteev</groupId>
 	<artifactId>custom-similarity</artifactId>
         <description>Custom Similarity plugins offers the possibility to store exact norms for indexed fields.</description>
-	<version>v0.0.1</version>
+	<version>v0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Custom SimilarityProvider for Elasticsearch</name>
 	<url>https://github.com/tuxnco/custom-similarity</url>
